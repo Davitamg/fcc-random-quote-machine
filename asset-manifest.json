@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/fcc-random-quote-machine/static/css/main.c6b8615f.chunk.css",
-    "main.js": "/fcc-random-quote-machine/static/js/main.c4cf92a4.chunk.js",
-    "main.js.map": "/fcc-random-quote-machine/static/js/main.c4cf92a4.chunk.js.map",
+    "main.js": "/fcc-random-quote-machine/static/js/main.c559c471.chunk.js",
+    "main.js.map": "/fcc-random-quote-machine/static/js/main.c559c471.chunk.js.map",
     "runtime-main.js": "/fcc-random-quote-machine/static/js/runtime-main.c13248c8.js",
     "runtime-main.js.map": "/fcc-random-quote-machine/static/js/runtime-main.c13248c8.js.map",
     "static/css/2.faabc773.chunk.css": "/fcc-random-quote-machine/static/css/2.faabc773.chunk.css",
-    "static/js/2.253710ae.chunk.js": "/fcc-random-quote-machine/static/js/2.253710ae.chunk.js",
-    "static/js/2.253710ae.chunk.js.map": "/fcc-random-quote-machine/static/js/2.253710ae.chunk.js.map",
+    "static/js/2.c1642abe.chunk.js": "/fcc-random-quote-machine/static/js/2.c1642abe.chunk.js",
+    "static/js/2.c1642abe.chunk.js.map": "/fcc-random-quote-machine/static/js/2.c1642abe.chunk.js.map",
     "index.html": "/fcc-random-quote-machine/index.html",
-    "precache-manifest.17a14c165a89f520bb2dc1f6a7d7b80d.js": "/fcc-random-quote-machine/precache-manifest.17a14c165a89f520bb2dc1f6a7d7b80d.js",
+    "precache-manifest.e97ee54ccc43a985dda48ef98ca4a0e2.js": "/fcc-random-quote-machine/precache-manifest.e97ee54ccc43a985dda48ef98ca4a0e2.js",
     "service-worker.js": "/fcc-random-quote-machine/service-worker.js",
     "static/css/2.faabc773.chunk.css.map": "/fcc-random-quote-machine/static/css/2.faabc773.chunk.css.map",
     "static/css/main.c6b8615f.chunk.css.map": "/fcc-random-quote-machine/static/css/main.c6b8615f.chunk.css.map",
-    "static/js/2.253710ae.chunk.js.LICENSE.txt": "/fcc-random-quote-machine/static/js/2.253710ae.chunk.js.LICENSE.txt",
+    "static/js/2.c1642abe.chunk.js.LICENSE.txt": "/fcc-random-quote-machine/static/js/2.c1642abe.chunk.js.LICENSE.txt",
     "static/media/index.css": "/fcc-random-quote-machine/static/media/roboto-latin-900italic.ebf6d164.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.c13248c8.js",
     "static/css/2.faabc773.chunk.css",
-    "static/js/2.253710ae.chunk.js",
+    "static/js/2.c1642abe.chunk.js",
     "static/css/main.c6b8615f.chunk.css",
-    "static/js/main.c4cf92a4.chunk.js"
+    "static/js/main.c559c471.chunk.js"
   ]
 }

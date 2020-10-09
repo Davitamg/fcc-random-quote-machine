@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f2fa3a79d8343e11d0e547a61cb042e",
+    "revision": "3ce78bc4bd014aebfb1e0c1d1936afc9",
     "url": "/fcc-random-quote-machine/index.html"
   },
   {
-    "revision": "7d9c0b769914a17bc7d5",
+    "revision": "4c730f1d35fdacd21afd",
     "url": "/fcc-random-quote-machine/static/css/2.faabc773.chunk.css"
   },
   {
-    "revision": "646a06085ca39a30f909",
+    "revision": "28e141b6bac7cc5fc334",
     "url": "/fcc-random-quote-machine/static/css/main.c6b8615f.chunk.css"
   },
   {
-    "revision": "7d9c0b769914a17bc7d5",
-    "url": "/fcc-random-quote-machine/static/js/2.253710ae.chunk.js"
+    "revision": "4c730f1d35fdacd21afd",
+    "url": "/fcc-random-quote-machine/static/js/2.c1642abe.chunk.js"
   },
   {
     "revision": "7c916f72723944718cac497dcc1054f3",
-    "url": "/fcc-random-quote-machine/static/js/2.253710ae.chunk.js.LICENSE.txt"
+    "url": "/fcc-random-quote-machine/static/js/2.c1642abe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "646a06085ca39a30f909",
-    "url": "/fcc-random-quote-machine/static/js/main.c4cf92a4.chunk.js"
+    "revision": "28e141b6bac7cc5fc334",
+    "url": "/fcc-random-quote-machine/static/js/main.c559c471.chunk.js"
   },
   {
     "revision": "f417d0b12ab016f5a92e",
