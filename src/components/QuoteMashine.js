@@ -7,19 +7,19 @@ import CardContent from "@material-ui/core/CardContent";
 import IconButton from "@material-ui/core/Button";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTwitter } from "@fortawesome/free-brands-svg-icons";
+import {FaQuoteLeft} from "react-icons/fa"
+import {IoMdQuote} from "react-icons/io"
 
 const QuoteMashine = ({ assignNewQuoteMethod, selectedQuote }) => (
   <Card id="text">
     <CardContent>
       <Typography variant="h5" color="secondary">
-        " {selectedQuote.quote}" ---{" "}
+        <FaQuoteLeft />  {selectedQuote.quote}<IoMdQuote/> ---{" "}
         <span id="author">{selectedQuote.author} </span>
       </Typography>
     </CardContent>
-    <CardActions>
-      <Button id="new-quote" size="small" onClick={assignNewQuoteMethod}>
-        Next Quote
-      </Button>
+    <CardActions className="buttonClass">
+      
       <IconButton
         color="primary"
         target="_blank"
@@ -29,7 +29,11 @@ const QuoteMashine = ({ assignNewQuoteMethod, selectedQuote }) => (
         )}
       >
         <FontAwesomeIcon icon={faTwitter} size="md"></FontAwesomeIcon>
+        
       </IconButton>
+      <Button id="new-quote" size="small" onClick={assignNewQuoteMethod}>
+        Next Quote <i class="fas fa-quote-left"></i>
+      </Button>
     </CardActions>
   </Card>
 );
